@@ -8,5 +8,8 @@
   "author": "",
   "license": "ISC",
   "keywords": [],
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "firebase-tools": "^8.4.2"
+  }
 }
